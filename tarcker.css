@@ -1,0 +1,15 @@
+#start {
+    background-color: blue;
+    border:10px solid black;
+    color: black;
+}
+#end {
+    background-color: green;
+    border: 10px solid yellow;
+    color: yellow;
+}
+.activity {
+    background-color: red;
+    border: 10px solid white;
+    color: white
+}    
